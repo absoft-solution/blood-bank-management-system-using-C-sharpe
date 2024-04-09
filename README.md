@@ -16,6 +16,9 @@ Build and run the application.
 Follow the on-screen instructions to navigate through the different features of the Blood Bank Management System.
 **Technologies Used:******
 C# Programming Language
+
 WinForms (Windows Forms) for GUI development
+
 .NET Framework for building the application
+
 SQL Server for database management
