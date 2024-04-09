@@ -9,12 +9,12 @@ Donor Management: Maintain detailed records of blood donors including personal i
 User Authentication and Authorization: Secure access to the system with user authentication and role-based permissions.
 **Reporting and Analytics:** Generate reports on blood inventory, donor activity, and blood requests for data-driven decision-making.
 **User-Friendly Interface:** Intuitive user interface design for ease of use and navigation.
-**How to Use:******
+**How to Use:**
 Clone the repository to your local machine.
 Open the project in Visual Studio.
 Build and run the application.
 Follow the on-screen instructions to navigate through the different features of the Blood Bank Management System.
-**Technologies Used:******
+**Technologies Used:**
 C# Programming Language
 
 WinForms (Windows Forms) for GUI development
